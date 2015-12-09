@@ -1100,5 +1100,10 @@
 <!-- Recents shake -->
     <string name="shake_clear_recents">Shake to clear</string>
     <string name="shake_clear_recents_summary">Clear recents by shaking your phone</string>
+
+
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">Three finger gesture</string>
+    <string name="three_finger_gesture_summary">Swipe three finger to screenshot</string>
 	
 </resources>
