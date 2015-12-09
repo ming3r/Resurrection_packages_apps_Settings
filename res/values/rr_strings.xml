@@ -1096,5 +1096,9 @@
     <string name="sizer_message_filefail">Failed to create profile.</string>
     <string name="sizer_message_noselect">Nothing selected.</string>
     <string name="system_app_remover">System App Remover</string>
+
+<!-- Recents shake -->
+    <string name="shake_clear_recents">Shake to clear</string>
+    <string name="shake_clear_recents_summary">Clear recents by shaking your phone</string>
 	
 </resources>
